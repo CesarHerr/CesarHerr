@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 </p>
 
-<img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="240px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ```js
 
