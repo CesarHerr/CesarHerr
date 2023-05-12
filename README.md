@@ -36,3 +36,8 @@ class Skills extends SoftwareDeveloper {
     </td>
   </tr>
 </table>
+  <div align="center">
+   <a href="https://github.com/CesarHerr">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarHerr&theme=radical&hide=glsl,python" />
+   </a>
+  </div>
