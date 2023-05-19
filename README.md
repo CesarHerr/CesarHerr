@@ -36,6 +36,10 @@ class Skills extends SoftwareDeveloper {
     </td>
   </tr>
 </table>
+
+![](https://github-profile-trophy.vercel.app/?username=CesarHerr&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+---
   <div align="center">
    <a href="https://github.com/CesarHerr">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarHerr&theme=radical&hide=glsl,python" />
@@ -43,6 +47,6 @@ class Skills extends SoftwareDeveloper {
   </div>
   
 ---
-[![](https://visitcount.itsvg.in/api?id=CesarHerr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=CesarHerr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
