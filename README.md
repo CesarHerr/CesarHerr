@@ -17,7 +17,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'Ruby'];
   databases  = ['MySQL', 'PostgreSQL'];
   frameworks = ['Next.js', 'Ruby on Rails'];
-  libraries = ['React', 'Redux-toolkit'];
+  libraries  = ['React', 'Redux-toolkit'];
 }
 ```
 <table align="center" width="100%"  border="0" cellpadding="0" cellspacing="0">
