@@ -8,7 +8,7 @@
 
 class Bio extends SoftwareDeveloper {
   name     = 'César Herrera';
-  title    = 'Full Stack Developer';
+  title    = 'Full-stack Developer';
   company  = 'Looking for my next job!';
   location = 'Pucón, Chile';
 }
