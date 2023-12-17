@@ -7,7 +7,7 @@
 ```js
 
 class Bio extends SoftwareDeveloper {
-  name     = 'César Herrera';
+  name     = 'César Herrera González';
   title    = 'Full-stack Developer';
   company  = 'Looking for my next job!';
   location = 'Pucón, Chile';
