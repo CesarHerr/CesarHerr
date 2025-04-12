@@ -10,7 +10,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'César Herrera González';
   title    = 'Full-stack Developer';
   company  = 'Looking for my next Challenge!';
-  location = 'Temuco, Chile';
+  location = 'Pucón, Chile';
 }
 
 class Skills extends SoftwareDeveloper {
