@@ -14,9 +14,9 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['Ruby', 'JavaScript', 'C++'];
+  languages  = ['Ruby', 'JavaScript', 'C++', 'Python'];
   databases  = ['MySQL', 'PostgreSQL', 'MongoDB'];
-  frameworks = ['Next.js', 'Ruby on Rails', 'Vue.js'];
+  frameworks = ['Next.js', 'Ruby on Rails', 'Vue.js', 'Flask'];
   libraries  = ['React', 'Redux-toolkit'];
 }
 ```
