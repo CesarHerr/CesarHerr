@@ -26,7 +26,7 @@ class Skills extends SoftwareDeveloper {
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=CesarHerr&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
-      <a href="https://cesarherr.github.io/portfolio/">
+      <a href="https://www.octatech.cl">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://github.com/CesarHerr/CesarHerr/blob/master/globe.gif?raw=true" />
